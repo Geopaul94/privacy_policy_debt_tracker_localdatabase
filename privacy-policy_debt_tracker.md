@@ -29,7 +29,7 @@ Since the app does not collect or store user data on servers, your data remains 
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of \[Insert Date].
+This policy is effective as of 30/06/2025.
 
 ### 5. Contact Us
 
